@@ -1,0 +1,5 @@
+{
+  "name": "Hack2Hire Interview Engine",
+  "description": "A deterministic, rule-driven interview simulation engine powered by Gemini for content generation and evaluation. It visualizes the state machine, scoring logic, and decision rules in real-time.",
+  "requestFramePermissions": []
+}
