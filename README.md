@@ -9,7 +9,7 @@ The system uses Gemini for enhanced evaluation **when available**, but is fully 
 ## 🎥 Demo Video (Mandatory for Evaluation)
 
 👉 **Full Working Demo (Screen Recording):**  
-<VIDEO_LINK>
+https://drive.google.com/file/d/1g0RZwaKwVrYC_Rm7mZPnSjkG5W54CNZY/view?usp=share_link
 
 The video demonstrates:
 - Resume & JD analysis
